@@ -2,7 +2,7 @@
 
 🔭 I’m currently developing using React and Node  <br />
 🌱 I’m learning Data Structes and Algorithms everyday  
-👯 I’m in 3rd year!
+👯 I’m in my final year!
 
 📫 How to reach me: <br />  
   LinkedIn: www.linkedin.com/in/akshita-waldia <br />
